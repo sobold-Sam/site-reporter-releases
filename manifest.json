@@ -1,6 +1,6 @@
 {
-    "version": "1.8.0",
-    "download_url": "https://github.com/sobold-Sam/site-reporter-releases/releases/download/v1.8.0/sobold-site-reporter.zip",
-    "sha256": "b10610b7f9f1f861ec9dd58451c2aec7f5e81742e0eb873d34dae61be4eb9625",
-    "signature": "ZgFrFCuk0H2Uay1M9h/HimqWie6HlyYaqPWj9KVku0oxj5K48jicU+3FiXjbKQ5R5PqZYr8n8GdwpKlzLejQDQ=="
+    "version": "1.9.1",
+    "download_url": "https://github.com/sobold-Sam/site-reporter-releases/releases/download/v1.9.1/sobold-site-reporter.zip",
+    "sha256": "4283179762ac3a10a6bd3e4133b0ee0d8aff4145c016a8d6f133374da51c2cc5",
+    "signature": "FLACTRmV/ChZfaGmgHOmnwWe7oxumLRtLl0Mp0jofVbiozSdvcvjhCPAZZ6x1clwHGWepNl/6/rzyKSFyAL6BA=="
 }
